@@ -1,0 +1,345 @@
+[
+  {
+    "date": "2026-08-21",
+    "kind": "World",
+    "title": "Last post in the public sneak-peeks channel",
+    "text": "A two-word forwarded note. Nothing has been posted in the announcements or sneak-peeks channels since; the lead developer said on 14 August that he answers questions and drops the odd preview in the server's lounge instead.",
+    "source": "Sneak peeks"
+  },
+  {
+    "date": "2026-08-14",
+    "kind": "World",
+    "title": "“Don't want to show you too much half finished stuff”",
+    "text": "An interior shot (a tavern room with armchairs) and a note that work continues.",
+    "source": "Sneak peeks"
+  },
+  {
+    "date": "2026-07-25",
+    "kind": "World",
+    "title": "Baste Prison rebuilt with several floors",
+    "text": "“Whole prison got done up to, along with how’s the whole system works etc, multiple floors, one more to do though.”",
+    "source": "Sneak peeks"
+  },
+  {
+    "date": "2026-07-24",
+    "kind": "World",
+    "title": "Outlands and the new Liones are the last two islands of Southern Britannia",
+    "text": "The lead developer is finishing the Outlands, “one of the large forests heavily connected to the starting progression”, while another developer completes the new Liones. Both are needed before premium testers can be let in. The same day he explained that Red and Grey Demons belong to a separate Story Mode, and that Galand is the only other boss still needed for the south.",
+    "source": "Announcements"
+  },
+  {
+    "date": "2026-07-15",
+    "kind": "Release",
+    "title": "No date, but “we do know this year”",
+    "text": "“We don't give a release date because we learnt our lesson last time, don't want to pool you all into a false hype chain when we're not ready either - but we do know this year though.”",
+    "source": "Announcements"
+  },
+  {
+    "date": "2026-05-24",
+    "kind": "Combat",
+    "title": "Mobs that hit back",
+    "text": "Clips of ordinary mobs beating the developers, with a promise that they are beatable, and that several creatures only gang up on you if you pull them yourself.",
+    "source": "Sneak peeks"
+  },
+  {
+    "date": "2026-05-10",
+    "kind": "Characters",
+    "title": "Mounts cleaned up",
+    "text": "Model shots of a blue winged fish mount with a saddle. “Mounts are all a luh cleaner and smoother now too.” The concept sheet followed on 17 May.",
+    "source": "Sneak peeks"
+  },
+  {
+    "date": "2026-04-30",
+    "kind": "Combat",
+    "title": "More magics per race, Ice reworked, more spins for everyone",
+    "text": "The team is split so that every race has several magics at release. Ice magic was changed because it “wasn't working too well in testing sessions”. “Due to us taking so long we will be giving out a bunch more spins not just to the testers but to everyone.”",
+    "source": "Sneak peeks"
+  },
+  {
+    "date": "2026-04-28",
+    "kind": "Release",
+    "title": "One more movie, then release; combat styles leave the spin wheel",
+    "text": "There will be one more long video, not two, with testers playing in it. Races and magics stay on spins (magics are locked to a race, and the races are said to be balanced). Combat styles were removed from spins and are earned through progress.",
+    "source": "Announcements"
+  },
+  {
+    "date": "2026-04-27",
+    "kind": "World",
+    "title": "Galand joins the world bosses",
+    "text": "He replaces the undead champion shown earlier.",
+    "source": "Sneak peeks"
+  },
+  {
+    "date": "2026-04-08",
+    "kind": "World",
+    "title": "A batch of tester previews made public",
+    "text": "A dock with frog creatures, a tavern interior, a prison break (“The Death trying to free ur boys aint worth it”) and a note that character customisation is nearly finished.",
+    "source": "Sneak peeks"
+  },
+  {
+    "date": "2026-02-22",
+    "kind": "Characters",
+    "title": "Every world boss has its own armour and weapon",
+    "text": "Concept sheets of boss armour sets. Besides the large monsters there are bosses “which are more player like from sds such as like Gilthunder, Dreyfus”.",
+    "source": "Sneak peeks"
+  },
+  {
+    "date": "2026-02-09",
+    "kind": "Characters",
+    "title": "Clothing and hair remade",
+    "text": "All clothes can be recoloured; about 30 new outfits in five level bands from 0 to 100, on top of “130+ armours”. Only long hairstyles (and the afro) are rigged to move.",
+    "source": "Sneak peeks"
+  },
+  {
+    "date": "2026-02-07",
+    "kind": "World",
+    "title": "Camelot, larger",
+    "text": "Street-level and rooftop shots of the rebuilt Camelot, described as part of Northern Britannia.",
+    "source": "Sneak peeks"
+  },
+  {
+    "date": "2026-02-05",
+    "kind": "World",
+    "title": "The map is split into three places",
+    "text": "“you start at Southern Britannia, then you got Central Britannia and then northern britannia (end game area)”. Cities are the hubs: Liones, Camelot and Danafor, which the developer says is, true to the anime, a big hole. The Minotaur's arena was rebuilt and Caesar has one of his own.",
+    "source": "Sneak peeks"
+  },
+  {
+    "date": "2026-02-04",
+    "kind": "World",
+    "title": "Ship customisation and diver suits",
+    "text": "Ships can be lengthened with parts, recoloured and have rooms edited. Diver suits let you stay underwater longer.",
+    "source": "Sneak peeks"
+  },
+  {
+    "date": "2026-02-03",
+    "kind": "Combat",
+    "title": "Fairies get guns",
+    "text": "The gun and holster shown earlier are for the Fairy race. With Synthesis magic you load potions into the gun and fire them at people.",
+    "source": "Sneak peeks"
+  },
+  {
+    "date": "2026-02-02",
+    "kind": "World",
+    "title": "Carlton, the underwater boss, redone",
+    "text": "Old and new models of the boss found in an underwater city. The name was picked by staff in January 2024 and has stuck.",
+    "source": "Sneak peeks"
+  },
+  {
+    "date": "2026-02-01",
+    "kind": "Testing",
+    "title": "PVE testing week; media ban lifted",
+    "text": "Testers with permission may post PVE footage.",
+    "source": "Sneak peeks"
+  },
+  {
+    "date": "2026-01-01",
+    "kind": "Release",
+    "title": "“Let's get this game out this year”",
+    "text": "The order is premium testing, then early access, then release. A rough date exists but is kept to senior developers. The world now includes an underwater city.",
+    "source": "Announcements"
+  },
+  {
+    "date": "2025-07-30",
+    "kind": "Warning",
+    "title": "“The game does not release today”",
+    "text": "A fake game had told people it was launching that day. The third such warning of 2025.",
+    "source": "Announcements"
+  },
+  {
+    "date": "2025-07-15",
+    "kind": "Warning",
+    "title": "A look-alike with almost the same name",
+    "text": "“IF YOU SEE A GAME ON ROBLOX, which is called something stupid like hoLy_WaR_X…. owned by Alpheeyrex…. Bro it’s not us, don’t let them scam you”.",
+    "source": "Announcements"
+  },
+  {
+    "date": "2025-07-10",
+    "kind": "Video",
+    "title": "New UI showcase",
+    "text": "Five minutes on the reworked menus: vanity outfits, dropping and trading items, and a dialogue history.",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=5iSiiWxAcmc"
+  },
+  {
+    "date": "2025-06-15",
+    "kind": "World",
+    "title": "The story boss you meet first",
+    "text": "The red demon from the story was remodelled. “Across the games storyline this is the first guy you have to fight, and he's gonna keep coming back”. He carries daggers; his drop is a greatsword, because his daggers are that size to you. Thunderbolt users can call down a thunder dragon in stormy weather.",
+    "source": "Sneak peeks"
+  },
+  {
+    "date": "2025-05-24",
+    "kind": "Video",
+    "title": "Blaze and Ice Fang video",
+    "text": "Twenty minutes on Break, Blaze and Ice magic, ultimates, and how magic fits the new combat.",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=lT38xDwg9SU"
+  },
+  {
+    "date": "2025-04-09",
+    "kind": "Warning",
+    "title": "“The Holy war x early access game … IS NOT US”",
+    "text": "People had joined the Discord asking where the game was after buying a pass in another group's experience. “If it's not from our official group … or we haven't made an announcement about it, stop falling for it.”",
+    "source": "Announcements"
+  },
+  {
+    "date": "2025-04-05",
+    "kind": "Testing",
+    "title": "Premium Tester goes off sale",
+    "text": "Sales ended and Capybara Tester applications closed. The developer repeated a week earlier that nobody has to buy anything: “the game is free on release for all to play”.",
+    "source": "Announcements"
+  },
+  {
+    "date": "2025-03-15",
+    "kind": "Video",
+    "title": "The Holy War X Movie",
+    "text": "One hour and 48 minutes, eleven acts, showing what was rebuilt after the 2023 rework.",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=i_Xg2urRmQw"
+  },
+  {
+    "date": "2025-01-04",
+    "kind": "Warning",
+    "title": "First warning about paid “access”",
+    "text": "“On release Holy War X is free. If we haven't given you a link, assume it is a fake.”",
+    "source": "Announcements"
+  },
+  {
+    "date": "2024-12-13",
+    "kind": "Release",
+    "title": "Cross-platform, and built to run on weak PCs",
+    "text": "The developer said the game will be cross-platform and that low-end PCs will be able to run it; the team is still working on performance.",
+    "source": "Announcements"
+  },
+  {
+    "date": "2024-06-04",
+    "kind": "Video",
+    "title": "AI NPC showcase",
+    "text": "NPCs pick from their whole move list each moment instead of following set combos. The group fought in the video are Ravagers, “one of the hardest faction you can encounter in the game”.",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=7tWDDJ0umps"
+  },
+  {
+    "date": "2024-05-27",
+    "kind": "Combat",
+    "title": "Ten weapon classes",
+    "text": "Class clips followed over the next week: greatswords, katanas, rapiers, axes, daggers, shortswords and hammers. Swing colour follows the weapon's element.",
+    "source": "Sneak peeks"
+  },
+  {
+    "date": "2024-05-08",
+    "kind": "World",
+    "title": "Fort islands, NPC ships, destructible buildings",
+    "text": "Guilds capture fort islands by first destroying the defences; the fort resets once the owning guild's members leave the server. NPC ships come in pirate and commodore factions. Capes and jackets move with physics and carry stats.",
+    "source": "Sneak peeks"
+  },
+  {
+    "date": "2024-03-27",
+    "kind": "Combat",
+    "title": "Combat rework finished",
+    "text": "“The heavy lifting of the combat rework is done.” A fishdex was added the same day to track fish by region.",
+    "source": "Announcements"
+  },
+  {
+    "date": "2024-01-27",
+    "kind": "World",
+    "title": "41 islands at release",
+    "text": "The count went from 17 (10 January) to 21 (20 January) to 41.",
+    "source": "Sneak peeks"
+  },
+  {
+    "date": "2024-01-10",
+    "kind": "World",
+    "title": "Underwater caverns and eight sea bosses",
+    "text": "About 12 of the then 17 islands have underwater caverns. Eight sea world bosses were made, seven of them beatable.",
+    "source": "Sneak peeks"
+  },
+  {
+    "date": "2023-11-02",
+    "kind": "Characters",
+    "title": "Holy Knight guild; “not pay to win”",
+    "text": "Only players enrolled in the Holy Knight guild can arrest others. Ranks run Apprentice Holy Knight, Holy Knight, Grand Holy Knight. “The game will not be pay to win … The game itself as well will be free to play.”",
+    "source": "Sneak peeks"
+  },
+  {
+    "date": "2023-10-06",
+    "kind": "World",
+    "title": "Media ban lifted; Baste Prison shown",
+    "text": "A run of daily previews followed: the Yeti of Antarcia Island, the megalodon, the Kraken, the Akikaze ship, mounts, and sub-skills such as lockpicking.",
+    "source": "Sneak peeks"
+  },
+  {
+    "date": "2023-08-11",
+    "kind": "Testing",
+    "title": "Roblox moderates the test place for the fourth time",
+    "text": "Each time the team is locked out of Studio for 24 to 48 hours.",
+    "source": "Announcements"
+  },
+  {
+    "date": "2023-04-07",
+    "kind": "Release",
+    "title": "“We reworked the entire game”",
+    "text": "Combat and more were rebuilt. A joint event with RELL Seas is planned for when both games are out.",
+    "source": "Announcements"
+  },
+  {
+    "date": "2023-02-03",
+    "kind": "Release",
+    "title": "Official game page shared to favourite",
+    "text": "The Roblox page for place 7000618865 was posted with the note that the game would be “cross platform: PC/mobile/Xbox/VR in post release”, followed minutes later by: “the game ain't out … I just said favourite it”.",
+    "source": "Announcements"
+  },
+  {
+    "date": "2022-12-10",
+    "kind": "Release",
+    "title": "Date pushed back",
+    "text": "The “IMPORTANT INFO” video moved the December 2022 target. Reasons given: a developer left, moves were redone, combat was reworked. Late December or early January was hoped for.",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=Q52jNflbYF4"
+  },
+  {
+    "date": "2022-10-27",
+    "kind": "Testing",
+    "title": "Premium Tester capped at 300",
+    "text": "The cap had risen in steps from 60 in May 2022 as spots sold out.",
+    "source": "Announcements"
+  },
+  {
+    "date": "2022-10-11",
+    "kind": "Release",
+    "title": "First public target: mid-December 2022",
+    "text": "The release-date video named around 16 to 17 December 2022; summer 2022 had been the earlier plan.",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=YeWbhi5khgg"
+  },
+  {
+    "date": "2022-05-11",
+    "kind": "Characters",
+    "title": "Group members get a boost and a starter weapon",
+    "text": "“Being in the Roblox group will give you an exp boost in-game alongside ‘group starter weapon’ to use on release.”",
+    "source": "Announcements"
+  },
+  {
+    "date": "2022-01-20",
+    "kind": "Testing",
+    "title": "First tester invite event",
+    "text": "15 Discord invites for Tester, 100 for Contributor (a permanent tester).",
+    "source": "Announcements"
+  },
+  {
+    "date": "2021-11-29",
+    "kind": "Video",
+    "title": "First magic showcase: Blaze",
+    "text": "Ice followed on 17 December and Tempest on 28 December.",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=GcnWvTOyy4Q"
+  },
+  {
+    "date": "2021-10-15",
+    "kind": "Release",
+    "title": "Holy War X announced",
+    "text": "“The dev team and I are working on an entirely new game called Holy War X, a follow on of the last project”, meaning Holy War 3 Test.",
+    "source": "Announcements"
+  }
+]
